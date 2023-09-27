@@ -3,6 +3,7 @@ function Search(props){
     return (
         <>
         <input>search</input>
+        <p>okay conflict test</p>
         </>
     )
 }
